@@ -7,8 +7,8 @@ for the Dutch/Flemish language.
 
 | **Title** | **Type** | **Description** | **Size** | **Link** |
 |-----------|----------|-----------------|----------|----------|
-| "jonatasgrosman/wav2vec2-large-xlsr-53-dutch"   | model | Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the train and validation splits of Common Voice 6.1 and CSS10. |      -    |     [HuggingFace](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch)     |
-| Generic   |          |                 |          |          |
+| jonatasgrosman/wav2vec2-large-xlsr-53-dutch   | model | "Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the train and validation splits of Common Voice 6.1 and CSS10." |      -    |     [HuggingFace](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch) |
+| Common Voice NL   |     dataset     | "The Common Voice dataset consists of a unique MP3 and corresponding text file. Many of the 9,283 recorded hours in the dataset also include demographic metadata like age, sex, and accent that can help train the accuracy of speech recognition engines. The dataset currently consists of 7,335 validated hours in 60 languages"         | 63 hours |   [HuggingFace](https://huggingface.co/datasets/common_voice/viewer/nl/train) |
 | Generic   |          |                 |          |          |
 | Generic   |          |                 |          |          |
 | Generic   |          |                 |          |          |
