@@ -7,7 +7,7 @@ for the Dutch/Flemish language.
 
 | **Title** | **Type** | **Description** | **Size** | **Link** |
 |-----------|----------|-----------------|----------|----------|
-| "jonatasgrosman/wav2vec2-large-xlsr-53-dutch"   | model | Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the train and validation splits of Common Voice 6.1 and CSS10. |      -    |     link[https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch]     |
+| "jonatasgrosman/wav2vec2-large-xlsr-53-dutch"   | model | Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the train and validation splits of Common Voice 6.1 and CSS10. |      -    |     [HuggingFace](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch)     |
 | Generic   |          |                 |          |          |
 | Generic   |          |                 |          |          |
 | Generic   |          |                 |          |          |
