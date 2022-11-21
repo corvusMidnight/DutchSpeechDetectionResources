@@ -31,5 +31,8 @@ for the Dutch/Flemish language.
 | LibriVox   |    Audio Books (MP3)      |       "Free public domain audiobooks"          |     295 books     |      [LibriVox](https://librivox.org/search?primary_key=19&search_category=language&search_page=1&search_form=get_results)    |
 | MUST-C   |    dataset      | "Created by Di Gangi et al. at 2019, the MuST-C Dataset is a speech translation corpus containing 385 hours from Ted talks for speech translation from English into several languages: Dutch, French, German, Italian, Portuguese, Romanian, Russian, & Spanish. Requires filling request form., in Multi-Lingual language."         |    385 hours      |     [Fondazione Bruno Kessler](https://ict.fbk.eu/must-c/)     |
 | dutch-vl-tts   |     dataset     |        "This dataset contains 15.000 audio fragments of a male Dutch Flemish voice, the sentences read are extracted from the Mozilla Common Voice project."         |      15.000 audio recordings   |     [GitHub](https://github.com/r-dh/dutch-vl-tts)     |
+| Corpus Gesproken Nederlands   |     dataset     |        "In de periode 1998-2004 is in het kader van het project Corpus Gesproken Nederlandse (CGN) gewerkt aan de aanleg van een databank voor het hedendaags Nederlands zoals dat door volwassen sprekers in Nederland en Vlaanderen wordt gesproken. De resultaten van dit project zijn in maart 2004 beschikbaar gekomen."         |    -      |    [CGN](https://lands.let.ru.nl/cgn/)     |
+| Generic   |          |                 |          |          |
+| Generic   |          |                 |          |          |
 | Generic   |          |                 |          |          |
 | Generic   |          |                 |          |          |
