@@ -1,4 +1,4 @@
-![image](https://www.sestek.com/wp-content/uploads/2020/08/advantages-of-speech-recognition.jpg)
+![image](https://d2k0ddhflgrk1i.cloudfront.net/_processed_/1/0/csm_banner_fb58e3c35a.png)
 
 
 # Dutch Speech Detection Resources
