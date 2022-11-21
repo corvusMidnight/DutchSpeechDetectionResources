@@ -1,4 +1,4 @@
-![]([http://url/to/img.png](https://www.sestek.com/wp-content/uploads/2020/08/advantages-of-speech-recognition.jpg))
+![image]([http://url/to/img.png](https://www.sestek.com/wp-content/uploads/2020/08/advantages-of-speech-recognition.jpg))
 
 
 # Dutch Speech Detection Resources
