@@ -1,11 +1,14 @@
+![]([http://url/to/img.png](https://www.sestek.com/wp-content/uploads/2020/08/advantages-of-speech-recognition.jpg))
+
+
 # Dutch Speech Detection Resources
 
 This repository functions as a collection of resources for the development and testing of speech detection/recognition/analysis tools for the Dutch/Flemish language. These include:
 
-![](https://img.shields.io/badge/model-blue)
-![](https://img.shields.io/badge/dataset-lightgreen)
-![](https://img.shields.io/badge/corpus-orange)
-![](https://img.shields.io/badge/website-red)
+- ![](https://img.shields.io/badge/model-blue)
+- ![](https://img.shields.io/badge/dataset-lightgreen)
+- ![](https://img.shields.io/badge/corpus-orange)
+- ![](https://img.shields.io/badge/website-red)
 
 # Table of contents
 * [Models](#models)
@@ -23,9 +26,11 @@ This repository functions as a collection of resources for the development and t
 | simonsr wav2vec2-large-xlsr-dutch |     ![](https://img.shields.io/badge/model-blue)     |        "Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the Common Voice. When using this model, make sure that your speech input is sampled at 16kHz."         |     -     |    [HuggingFace](https://huggingface.co/simonsr/wav2vec2-large-xlsr-dutch)      |
 | facebook wav2vec2 large xlsr-53-dutch model   |     ![](https://img.shields.io/badge/model-blue)     |        "The model facebook wav2vec2 large xlsr-53-dutch is a Natural Language Processing (NLP) Model implemented in Transformer library, generally using the Python programming language."         |     -     |  [HuggingFace](https://huggingface.co/facebook/wav2vec2-large-xlsr-53-dutch)     |
 | speechbrain/lang-id-commonlanguage_ecapa Copied   |     ![](https://img.shields.io/badge/model-blue)     |        "This repository provides all the necessary tools to perform language identification from speech recordings with SpeechBrain. The system uses a model pretrained on the CommonLanguage dataset (45 languages)."         |     -     |     [HuggingFace](https://huggingface.co/speechbrain/lang-id-commonlanguage_ecapa)     |
-| Generic   |          |                 |          |          |
-| Generic   |          |                 |          |          |
-| Generic   |          |                 |          |          |
+| openai/whisper-large   |     ![](https://img.shields.io/badge/model-blue)     |       "The Whisper model was proposed in Robust Speech Recognition via Large-Scale Weak Supervision by Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, Ilya Sutskever."          |     -     |     [HuggingFace](https://huggingface.co/openai/whisper-large)     |
+| GroNLP/wav2vec2-dutch-large-ft-cgn   |     ![](https://img.shields.io/badge/model-blue)     |        "A Dutch Wav2Vec2 model. This model is created by further pre-training the original English facebook/wav2vec2-large model on Dutch speech from Het Corpus Gesproken Nederlands. Subsequently, the model is fine-tuned on the same Dutch speech using CTC."        |      -    |     [HuggingFce](https://huggingface.co/GroNLP/wav2vec2-dutch-large-ft-cgn)     |
+| Coming soon...   |     ![](https://img.shields.io/badge/model-blue)     |                 |          |          |
+
+
 
 # Data
 
@@ -39,4 +44,5 @@ This repository functions as a collection of resources for the development and t
 | IFA Spoken Language Corpus   |     ![](https://img.shields.io/badge/corpus-orange)     | "The IFA Spoken Language corpus is a free (GPL) database of hand-segmented Dutch speech. It was constructed with off-the-shelf software using speech from 8 speakers in a variety of speaking styles. For a total of 50,000 words (41 minutes/speaker), speech acquisition and preparation took around 3 person-weeks per speaker."         |     4 hours     |     [IFA](https://www.fon.hum.uva.nl/IFA-SpokenLanguageCorpora/IFAcorpus/)     |
 | CSS10    |     ![](https://img.shields.io/badge/dataset-lightgreen)     |        "CSS10 is a collection of single speaker speech datasets for 10 languages. Each of them consists of audio files recorded by a single volunteer and their aligned text sourced from LibriVox."         |     -     |     [kaggle](https://www.kaggle.com/datasets/bryanpark/dutch-single-speaker-speech-dataset)     |
 | Spoken Wikipedia Corpus (Dutch)   |     ![](https://img.shields.io/badge/corpus-orange)     |       "The Spoken Wikipedia project unites volunteer readers of Wikipedia articles. Hundreds of spoken articles in multiple languages are available to users who are – for one reason or another – unable or unwilling to consume the written version of the article." | -  |    [kaggle](https://www.kaggle.com/datasets/rtatman/spoken-wikipedia-corpus-dutch)      |
-| Generic   |          |                 |          |          |
+| Corpus Gesproken Nederlands (CGN) |     ![](https://img.shields.io/badge/corpus-orange)     |       "Het Corpus Gesproken Nederlands (CGN) is een verzameling van 900 uur (bijna 9 miljoen woorden) hedendaagse Nederlandse spraak, afkomstig van Vlamingen en Nederlanders."          |     900 hours     |     [Instituut voor de Nederlandse taal](https://taalmaterialen.ivdnt.org/download/tstc-corpus-gesproken-nederlands/)     |
+| Coming soon...   |          |                 |          |          |
