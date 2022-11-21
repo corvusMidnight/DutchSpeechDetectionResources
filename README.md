@@ -1,7 +1,11 @@
 # Dutch Speech Detection Resources
 
-This repository functions as a collection of resources for the development and testing of speech detection/recognition/analysis tools
-for the Dutch/Flemish language.
+This repository functions as a collection of resources for the development and testing of speech detection/recognition/analysis tools for the Dutch/Flemish language. These include:
+
+![](https://img.shields.io/badge/model-blue)
+![](https://img.shields.io/badge/dataset-lightgreen)
+![](https://img.shields.io/badge/corpus-orange)
+![](https://img.shields.io/badge/website-red)
 
 # Table of contents
 * [Models](#models)
