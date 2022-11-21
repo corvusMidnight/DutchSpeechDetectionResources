@@ -18,7 +18,7 @@ for the Dutch/Flemish language.
 | wav2vec2-large-xls-r-300m-nl   |    model      |      "This model is a fine-tuned version of facebook/wav2vec2-xls-r-300m on the common_voice dataset." | - | [HuggingFace](https://huggingface.co/RuudVelo/wav2vec2-large-xls-r-300m-nl)         |
 | Wav2Vec2-Large-XLSR-53-Dutch   |    model      |      "Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the Common Voice. When using this model, make sure that your speech input is sampled at 16kHz."           |     -     |     [HuggingFace](https://huggingface.co/nithinholla/wav2vec2-large-xlsr-53-dutch)     |
 | wav2vec2-large-xlsr-53-Dutch by Mehdi Hosseini Moghadam   |     model     |         "Fine-tuned facebook/wav2vec2-large-xlsr-53 in Dutch using the Common Voice.
-When using this model, make sure that your speech input is sampled at 16kHz."        |     -     |     [HuggingFace](https://huggingface.co/MehdiHosseiniMoghadam/wav2vec2-large-xlsr-53-Dutch)     |
+When using this model, make sure that your speech input is sampled at 16kHz."        |     -     | [HuggingFace](https://huggingface.co/MehdiHosseiniMoghadam/wav2vec2-large-xlsr-53-Dutch)     |
 | simonsr wav2vec2-large-xlsr-dutch |     model     |        "Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the Common Voice. When using this model, make sure that your speech input is sampled at 16kHz."         |     -     |    [HuggingFace](https://huggingface.co/simonsr/wav2vec2-large-xlsr-dutch)      |
 | Generic   |          |                 |          |          |
 | Generic   |          |                 |          |          |
