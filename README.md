@@ -57,4 +57,5 @@ This repository functions as a collection of resources for the development and t
 
 # Evaluation
 
-![](https://img.shields.io/badge/XLSR_Wav2Vec2_Dutch-blue) by Jonatas Grosman on ![](https://img.shields.io/badge/Common_Voice-lightgreen) (100 samples)
+- ![](https://img.shields.io/badge/XLSR_Wav2Vec2_Dutch-blue) by Jonatas Grosman on ![](https://img.shields.io/badge/Common_Voice-lightgreen) (100 samples)
+
