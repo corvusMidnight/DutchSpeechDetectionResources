@@ -23,7 +23,7 @@ This repository functions as a collection of resources for the development and t
 
 | **Title** | **Type** | **Description** | **Size** | **Link** |
 |-----------|----------|-----------------|----------|----------|
-|```diff ! Wav2Vec2```|```diff ! Wav2Vec2```|```diff ! Wav2Vec2```|```diff ! Wav2Vec2```|```diff ! Wav2Vec2```|
+|```diff ! Wav2Vec2 ```|```diff ! Wav2Vec2 ```|```diff ! Wav2Vec2 ```|```diff ! Wav2Vec2 ```|```diff ! Wav2Vec2 ```|
 | XLSR Wav2Vec2 Dutch by Jonatas Grosman | ![](https://img.shields.io/badge/model-blue) | "Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the train and validation splits of Common Voice 6.1 and CSS10." |      -    |     [HuggingFace](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch) |
 | Dutch XLSR Wav2Vec2 Large 53 by Wietse de Vries   |    ![](https://img.shields.io/badge/model-blue)     |      "Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the Common Voice dataset. When using this model, make sure that your speech input is sampled at 16kHz."           |     -     |    [HuggingFace](https://huggingface.co/wietsedv/wav2vec2-large-xlsr-53-dutch)      |
 | wav2vec2-large-xls-r-300m-nl   |    ![](https://img.shields.io/badge/model-blue)      |      "This model is a fine-tuned version of facebook/wav2vec2-xls-r-300m on the common_voice dataset." | - | [HuggingFace](https://huggingface.co/RuudVelo/wav2vec2-large-xls-r-300m-nl)         |
