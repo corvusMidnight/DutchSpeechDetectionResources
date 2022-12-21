@@ -14,11 +14,16 @@ This repository functions as a collection of resources for the development and t
 * [Models](#models)
 * [Data](#data)
 
+```diff
+! text in orange
+
+```
+
 # Models
 
 | **Title** | **Type** | **Description** | **Size** | **Link** |
 |-----------|----------|-----------------|----------|----------|
-|Wav2Vec2|Wav2Vec2|Wav2Vec2|Wav2Vec2|Wav2Vec2|
+|```diff ! Wav2Vec2```|```diff ! Wav2Vec2```|```diff ! Wav2Vec2```|```diff ! Wav2Vec2```|```diff ! Wav2Vec2```|
 | XLSR Wav2Vec2 Dutch by Jonatas Grosman | ![](https://img.shields.io/badge/model-blue) | "Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the train and validation splits of Common Voice 6.1 and CSS10." |      -    |     [HuggingFace](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch) |
 | Dutch XLSR Wav2Vec2 Large 53 by Wietse de Vries   |    ![](https://img.shields.io/badge/model-blue)     |      "Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the Common Voice dataset. When using this model, make sure that your speech input is sampled at 16kHz."           |     -     |    [HuggingFace](https://huggingface.co/wietsedv/wav2vec2-large-xlsr-53-dutch)      |
 | wav2vec2-large-xls-r-300m-nl   |    ![](https://img.shields.io/badge/model-blue)      |      "This model is a fine-tuned version of facebook/wav2vec2-xls-r-300m on the common_voice dataset." | - | [HuggingFace](https://huggingface.co/RuudVelo/wav2vec2-large-xls-r-300m-nl)         |
@@ -26,9 +31,9 @@ This repository functions as a collection of resources for the development and t
 | wav2vec2-large-xlsr-53-Dutch by Mehdi Hosseini Moghadam   |     ![](https://img.shields.io/badge/model-blue)     | "Fine-tuned facebook/wav2vec2-large-xlsr-53 in Dutch using the Common Voice. When using this model, make sure that your speech input is sampled at 16kHz."        |     -     | [HuggingFace](https://huggingface.co/MehdiHosseiniMoghadam/wav2vec2-large-xlsr-53-Dutch)     |
 | simonsr wav2vec2-large-xlsr-dutch |     ![](https://img.shields.io/badge/model-blue)     |        "Fine-tuned facebook/wav2vec2-large-xlsr-53 on Dutch using the Common Voice. When using this model, make sure that your speech input is sampled at 16kHz."         |     -     |    [HuggingFace](https://huggingface.co/simonsr/wav2vec2-large-xlsr-dutch)      |
 | facebook wav2vec2 large xlsr-53-dutch model   |     ![](https://img.shields.io/badge/model-blue)     |        "The model facebook wav2vec2 large xlsr-53-dutch is a Natural Language Processing (NLP) Model implemented in Transformer library, generally using the Python programming language."         |     -     |  [HuggingFace](https://huggingface.co/facebook/wav2vec2-large-xlsr-53-dutch)     |
-|speechbrain|speechbrain|speechbrain|speechbrain|speechbrain|
+|```diff !speechbrain```|```diff !speechbrain```|```diff !speechbrain```|```diff !speechbrain```|```diff !speechbrain```|
 | speechbrain/lang-id-commonlanguage_ecapa Copied   |     ![](https://img.shields.io/badge/model-blue)     |        "This repository provides all the necessary tools to perform language identification from speech recordings with SpeechBrain. The system uses a model pretrained on the CommonLanguage dataset (45 languages)."         |     -     |     [HuggingFace](https://huggingface.co/speechbrain/lang-id-commonlanguage_ecapa)     |
-|openai|openai|openai|openai|openai|
+|```diff !openai```|```diffopenai```|```diffopenai```|```diffopenai```|```diffopenai```|
 | openai/whisper-large   |     ![](https://img.shields.io/badge/model-blue)     |       "The Whisper model was proposed in Robust Speech Recognition via Large-Scale Weak Supervision by Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, Ilya Sutskever."          |     -     |     [HuggingFace](https://huggingface.co/openai/whisper-large)     |
 | GroNLP/wav2vec2-dutch-large-ft-cgn   |     ![](https://img.shields.io/badge/model-blue)     |        "A Dutch Wav2Vec2 model. This model is created by further pre-training the original English facebook/wav2vec2-large model on Dutch speech from Het Corpus Gesproken Nederlands. Subsequently, the model is fine-tuned on the same Dutch speech using CTC."        |      -    |     [HuggingFce](https://huggingface.co/GroNLP/wav2vec2-dutch-large-ft-cgn)     |
 |  Wav2Vec2-Large-XLSR-53-ft-CGN  |     ![](https://img.shields.io/badge/model-blue)     |         "This model is created by fine-tuning the facebook/wav2vec2-large-xlsr-53 model on Dutch speech from Het Corpus Gesproken Nederlands using CTC."        |     -     |     [HuggingFace](https://huggingface.co/GroNLP/wav2vec2-large-xlsr-53-ft-cgn)     |
