@@ -1,6 +1,7 @@
 import re
 import Levenshtein
 import pandas as pd
+import matplotlib.pyplot as plt
 
 import re
 from Levenshtein import distance
