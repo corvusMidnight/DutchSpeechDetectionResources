@@ -1,6 +1,7 @@
 import Levenshtein
 import pandas as pd
 import re
+import matplotlib.pyplot as plt
 from Levenshtein import distance
 
 def word_recognition(df: pd.DataFrame, col1: str, col2: str) -> tuple:
@@ -36,7 +37,6 @@ def plot_wrr_er(df: pd.DataFrame, col1: str, col2: str):
     col1 (str): The name of the first column.
     col2 (str): The name of the second column.
     """
-    import matplotlib.pyplot as plt
     wrr, er = word_recognition(df, col1, col2)
     plt.figure(figsize=(10, 5))
     plt.plot(wrr, label='WRR')
